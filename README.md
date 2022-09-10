@@ -14,4 +14,4 @@ the dataset contains synthetic images of tokaido railway viaducts, and has segem
 # Algorithms
 
 ## U-net for component detection
-<img width="400" src="https://github.com/RajaFida/U-Net-based-Computer-Vision-algorithms-for-automated-structural-health-monitoring/data/unet.JPG"> </a>
+<img width="400" src="https://github.com/Nikhil-0142/U-Net-based-Computer-Vision-algorithms-for-automated-structural-health-monitoring/blob/fe9569777437548968bce93969e78c5796b7a6dc/data/unet.JPG"> </a>
