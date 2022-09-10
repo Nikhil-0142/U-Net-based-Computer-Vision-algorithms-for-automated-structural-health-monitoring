@@ -1,9 +1,9 @@
 # U-Net-based-Computer-Vision-algorithms-for-automated-structural-health-monitoring
-End-to-end implementation of U-Net-based computer vision algorithms for automated structural health monitoring of reinforced concrete structures.
+
 
 This repository represents the training and testing of the proposed U-net architectures for component and damage detection. the algorithms along with the requirements, dataset loading, testing and training scripts are given in the attached ipynb notebooks and can be opened in google colab below
 - **Component recognition** : <a href="https://colab.research.google.com/github/Nikhil-0142/U-Net-based-Computer-Vision-algorithms-for-automated-structural-health-monitoring/blob/b9a2df0b7d4c02ed0c6cd8758af72ce6dc5216a1/U_Net_for_Component_Recognition(SHM).ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
-- **Damage recognition** : <a href="https://colab.research.google.com/github/RajaFida/YOLO-V5-Road-distress-imaging/blob/main/Test_YoloV5.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
+- **Damage recognition** : <a href="https://colab.research.google.com/github/Nikhil-0142/U-Net-based-Computer-Vision-algorithms-for-automated-structural-health-monitoring/blob/4bc4b588dea24aabbcaaac24fb7e10fe802fe714/U_Net_for_Damage_Detection(SHM).ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
 
 
 # Dataset
