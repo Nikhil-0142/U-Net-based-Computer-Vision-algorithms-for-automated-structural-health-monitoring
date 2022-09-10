@@ -24,8 +24,19 @@ the dataset contains synthetic images of tokaido railway viaducts, and has segem
 
 ## validation image inference
 
-<img width="400" src="https://github.com/Nikhil-0142/U-Net-based-Computer-Vision-algorithms-for-automated-structural-health-monitoring/blob/fe9569777437548968bce93969e78c5796b7a6dc/data/Component_valid.JPG"> </a>
+<img width="600" src="https://github.com/Nikhil-0142/U-Net-based-Computer-Vision-algorithms-for-automated-structural-health-monitoring/blob/fe9569777437548968bce93969e78c5796b7a6dc/data/Component_valid.JPG"> </a>
 
 ## test image inference
 
-<img width="400" src="https://github.com/Nikhil-0142/U-Net-based-Computer-Vision-algorithms-for-automated-structural-health-monitoring/blob/fe9569777437548968bce93969e78c5796b7a6dc/data/Component_test.JPG"> </a>
+<img width="600" src="https://github.com/Nikhil-0142/U-Net-based-Computer-Vision-algorithms-for-automated-structural-health-monitoring/blob/fe9569777437548968bce93969e78c5796b7a6dc/data/Component_test.JPG"> </a>
+
+# Damage detection
+
+## validation image inference
+
+<img width="600" src="https://github.com/Nikhil-0142/U-Net-based-Computer-Vision-algorithms-for-automated-structural-health-monitoring/blob/fe9569777437548968bce93969e78c5796b7a6dc/data/crack_valid.JPG"> </a>
+
+## test image inference
+
+<img width="600" src="https://github.com/Nikhil-0142/U-Net-based-Computer-Vision-algorithms-for-automated-structural-health-monitoring/blob/fe9569777437548968bce93969e78c5796b7a6dc/data/Crack_test.JPG"> </a>
+
