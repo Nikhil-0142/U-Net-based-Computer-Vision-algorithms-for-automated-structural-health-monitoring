@@ -11,4 +11,7 @@ this repository represents the training and testing of the proposed U-net archit
 U-net models for component detection and damage detection were trained on Tokaido dataset, which has been developedd by Narazaki et.al., and was published in their paper named ;;
 the dataset contains synthetic images of tokaido railway viaducts, and has segementation labebls for varioous structural components like columns, beams, railway pylons etc in component recognition, and concrete cracks, exposed rebears in demage detection. 
 
+# Algorithms
 
+## U-net for component detection
+<img width="400" src="https://github.com/RajaFida/U-Net-based-Computer-Vision-algorithms-for-automated-structural-health-monitoring/data/unet.JPG"> </a>
