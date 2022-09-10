@@ -48,7 +48,7 @@ The dataset contains images created synthetically representing railway viaducts.
 
 10) The next set of cells, till checkpoint five, contain the code to print the model training history to see how the training metrics changed wrt each epoch, and then print out the predictions on the validation set.
 
-## Testing the model- 
+## To test the model
 
 1) Run the training steps 1,3,4 and 5. The model will be loaded and ready for predictions. 
 
